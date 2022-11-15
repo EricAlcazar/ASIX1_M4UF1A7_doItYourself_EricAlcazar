@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+*{
+    font-family: 'PT Sans', sans-serif;
+}
+
+h1 {
+    color: white;
+}
+
+#intro {
+    color:white
+}
+
+.apartado {
+    padding: 5%;
+    border: solid darkcyan 1px;
+    border-radius: 5px;
+    background-color: white
+}
+
+#telegram {
+    border: 1.5px;
+    border-radius: 3px;
+    background-color: royalblue
+}
+
+#Nodorios {
+    border: 1.5px;
+    border-radius: 3px;
+    background-color: blue
+}
+
+#rojadirecta {
+    border: 1.5px;
+    border-radius: 3px;
+    background-color: red
+}
+
+#pagweb {
+    border: 1.5px;
+    border-radius: 3px;
+    background-color: slategray
+}
+body{
+    margin: 0%;
+    padding-left: 40%;
+    padding-right: 40%;
+    background-color: black;
+}
+
+
+
+img{
+    width: 80%;
+}
